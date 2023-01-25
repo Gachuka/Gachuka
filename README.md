@@ -7,7 +7,7 @@ Built many physical things 🔩🗜️ and now virtual things 🖥️🖱️
 
 What is a CNC *(Computer Numerical Control Machine)*? It is the opposite of a 3D printer. 3D printers adds materiel in order to create and CNC machines removes materiel from a rough part to create.
 
-I am currently open for work! Take a look at my [resume](https://drive.google.com/file/d/1jL8O1ts42dpjYCzN-Hl7LJAh4gLBZ_L5/view?usp=share_link)!
+I am currently open for work! Take a look at my [resume](https://drive.google.com/file/d/1DOfUMV6m_LY65RgZcApUKJ3TYoXLILEl/view?usp=share_link)!
 
 
 

@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Gachuka/Gachuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, Li here! 
 
-Here are some ideas to get you started:
+Senior CNC Programmer/Operator turned Fullstack Web Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built many physical things 🔩🗜️ and now virtual things 🖥️🖱️
+
+What is a CNC *(Computer Numerical Control Machine)*? It is the opposite of a 3D Printer.
+
+## My work
+
+**~~Currently~~ Always working on:** [Portfolio](https://li-yu-development.netlify.app/)
+
+**Finishing up on:** [10Latest](https://github.com/Gachuka/lol-summoner-stats) (Lookup 10 most recent matches of a summoner on NA server in League of Legends)
+
+**Coming up:** Too many ideas for the time I have 😅
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gachuka&hide=stars&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### A Little More about me...
+
+```javascript
+const LiYu = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [MySQL, React, Node],
+  learning: [Typescript, Tailwind, Mongo, Next.js, Figma],
+  challenge: "Too many ideas for the time I have on my hands"
+}
+```

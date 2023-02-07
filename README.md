@@ -33,7 +33,7 @@ const LiYu = {
 }
 ```
 
-### Spotify Plaing 🎧
+### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing-gachuka.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-now-playing-gachuka)
 

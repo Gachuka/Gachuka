@@ -36,3 +36,7 @@ const LiYu = {
   challenge: "Too many ideas for the time I have on my hands"
 }
 ```
+
+### Spotify Plaing 🎧
+
+[![Spotify](https://spotify-now-playing-gachuka.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-now-playing-gachuka)

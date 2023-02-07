@@ -23,6 +23,8 @@ I am currently open for work! Take a look at my [resume](https://drive.google.co
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 ### A Little More about me...
 
 ```javascript

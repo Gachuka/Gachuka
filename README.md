@@ -21,10 +21,6 @@ I am currently open for work! Take a look at my [resume](https://drive.google.co
 
 [![Anurag's GitHub stats](https://github-readme-stats-gachuka.vercel.app/api?username=Gachuka&hide=stars&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ### A Little More about me...
 
 ```javascript
@@ -40,3 +36,11 @@ const LiYu = {
 ### Spotify Plaing 🎧
 
 [![Spotify](https://spotify-now-playing-gachuka.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-now-playing-gachuka)
+
+***
+
+<div align="center">
+
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=gachuka.github-profile&left_text=My%20Page%20Visitors)
+  
+</div>

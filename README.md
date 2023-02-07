@@ -21,7 +21,7 @@ I am currently open for work! Take a look at my [resume](https://drive.google.co
 
 [![Anurag's GitHub stats](https://github-readme-stats-gachuka.vercel.app/api?username=Gachuka&hide=stars&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--START_SECTION:activity-->
 
 ### A Little More about me...
 

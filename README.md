@@ -15,9 +15,9 @@ I am currently open for work! Take a look at my [resume](https://drive.google.co
 
 **~~Currently~~ Always working on:** [Portfolio](https://li-yu-development.netlify.app/)
 
-**Finishing up on:** [10Latest](https://github.com/Gachuka/lol-summoner-stats) (Lookup 10 most recent matches of a summoner on NA server in League of Legends)
+**Working on:** DIB (Digital Impact Builders) (Project done in collaboration with [Simon Tang](https://github.com/simontcodes))
 
-**Coming up:** Too many ideas for the time I have 😅
+**Coming up:** Interactive Periodic table. ANNNDDD still too many ideas for the time I have 😅
 
 ### My GitHub Activity
 

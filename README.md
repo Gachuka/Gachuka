@@ -1,21 +1,19 @@
 
 # Hi, Li here! 
 
-Senior CNC Programmer/Operator turned Fullstack Web Developer!
+Software Engineer transitioned from Senior CNC Programmer/Operator!
 
 Built many physical things 🔩🗜️ and now virtual things 🖥️🖱️
 
 What is a CNC *(Computer Numerical Control Machine)*? It is the opposite of a 3D printer. 3D printers adds materiel in order to create and CNC machines removes materiel from a rough part to create.
 
-I am currently open for work! Take a look at my [resume](https://drive.google.com/file/d/1wKUOdgm5lrlSX0br9nkSUgeOAnQ5jceu/view?usp=sharing)!
+I am currently open for work! Take a look at my [resume](https://drive.google.com/file/d/16TEhCKKA-welgKpOm-gyx69QbPXJ9tpi/view?usp=drive_link)!
 
 
 
 ## My work
 
 **~~Currently~~ Always working on:** [Portfolio](https://li-yu-development.netlify.app/)
-
-**Working on:** DIB (Digital Impact Builders) (Project done in collaboration with [Simon Tang](https://github.com/simontcodes))
 
 **Coming up:** Interactive Periodic table. ANNNDDD still too many ideas for the time I have 😅
 
